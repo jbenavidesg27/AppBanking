@@ -26,11 +26,11 @@ public class Active {
 	
 	private Credit credit;
 	
-	private BigDecimal credit_amount;
+	private BigDecimal creditAmount;
 	
-	private String code_person;
+	private String codePerson;
 	
-	private Date credit_date;
+	private Date creditDate;
 	
 	private String period;
 	
