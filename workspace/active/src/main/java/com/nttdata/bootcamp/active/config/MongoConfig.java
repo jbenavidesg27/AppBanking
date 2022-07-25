@@ -12,11 +12,11 @@ public class MongoConfig implements InitializingBean {
 	
 	@Autowired
 	@Lazy
-	private MappingMongoConverter converter;
+	private MappingMongoConverter converte;
 
 	@Override
 	public void afterPropertiesSet() throws Exception {
-		converter.setTypeMapper(new DefaultMongoTypeMapper(null));
+		converte.setTypeMapper(new DefaultMongoTypeMapper(null));
 		
 	}
 

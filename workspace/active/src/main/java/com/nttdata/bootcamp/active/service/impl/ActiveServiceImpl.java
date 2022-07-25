@@ -17,8 +17,8 @@ public class ActiveServiceImpl implements IActiveService {
 	IActiveDao iActive;
 
 	@Override
-	public Mono<Active> save(Active active) {
-		return iActive.save(active);
+	public Mono<Active> save(Active activ) {
+		return iActive.save(activ);
 	}
 
 	@Override

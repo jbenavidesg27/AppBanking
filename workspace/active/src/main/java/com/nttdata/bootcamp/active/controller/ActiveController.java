@@ -64,9 +64,9 @@ public class ActiveController {
 		return monoBD.zipWith(monoBody, (bd, ps) -> {
 					bd.setId(id);
 					bd.setCredit(ps.getCredit());
-					bd.setCredit_amount(ps.getCredit_amount());
-					bd.setCode_person(ps.getCode_person());
-					bd.setCredit_date(ps.getCredit_date());
+					bd.setCreditAmount(ps.getCreditAmount());
+					bd.setCodePerson(ps.getCodePerson());
+					bd.setCreditDate(ps.getCreditDate());
 					bd.setPeriod(ps.getPeriod());
 					return bd;
 				})
