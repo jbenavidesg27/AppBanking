@@ -7,4 +7,3 @@ import org.springframework.data.repository.NoRepositoryBean;
 public interface IGenericDao<T,ID> extends ReactiveMongoRepository<T, ID> {
 
 }
-
