@@ -20,9 +20,23 @@ public class Active {
 public class Active {
 	
 	@Id
+<<<<<<< HEAD
 	private Integer id;
 	private String descripcion;
 >>>>>>> parent of fe8af3a (Active)
+=======
+	private String id;
+	
+	private Credit credit;
+	
+	private BigDecimal creditAmount;
+	
+	private String codePerson;
+	
+	private Date creditDate;
+	
+	private String period;
+>>>>>>> dev
 	
 
 }
