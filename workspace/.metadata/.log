@@ -100,6 +100,7 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-23 18:09:41.325
 !MESSAGE executing callback sts4.classpath.zHyfPZgD SUCCESS [done]
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 07:37:17.945
 !MESSAGE exists = true open = true => deleted = false
@@ -448,6 +449,9 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 =======
 !SESSION 2022-07-24 18:02:38.605 -----------------------------------------------
 >>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
+=======
+!SESSION 2022-07-24 18:02:38.605 -----------------------------------------------
+>>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
 eclipse.buildId=4.15.1.202206171354
 java.version=17.0.3
 java.vendor=Eclipse Adoptium
@@ -456,10 +460,13 @@ Framework arguments:  -product org.springframework.boot.ide.branding.sts4
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 !ENTRY org.eclipse.jface 2 0 2022-07-24 17:19:24.695
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-07-24 17:19:24.695
 =======
+=======
+>>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
 !ENTRY org.eclipse.core.resources 2 10035 2022-07-24 18:02:48.829
 !MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
 
@@ -691,6 +698,9 @@ java.io.FileNotFoundException: C:\Users\mmelgars\Documents\workspace-spring-tool
 !ENTRY org.eclipse.jface 2 0 2022-07-24 18:02:51.002
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-07-24 18:02:51.002
+<<<<<<< HEAD
+>>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
+=======
 >>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
 !MESSAGE A conflict occurred for CTRL+SHIFT+T:
 Binding(CTRL+SHIFT+T,
@@ -698,7 +708,11 @@ Binding(CTRL+SHIFT+T,
 		Open a type in a Java editor,
 		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3dad8bde,
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@72a61e61,
+>>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
 =======
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@72a61e61,
 >>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
@@ -710,17 +724,23 @@ Binding(CTRL+SHIFT+T,
 		,
 		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@301f9aa0,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-07-24 17:19:24.695
 =======
+=======
+>>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@282aea3c,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-07-24 18:02:51.002
+<<<<<<< HEAD
+>>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
+=======
 >>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
 !MESSAGE A conflict occurred for ALT+SHIFT+R:
 Binding(ALT+SHIFT+R,
@@ -728,7 +748,11 @@ Binding(ALT+SHIFT+R,
 		Rename the selected element,
 		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2f82e3cf,
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@54a5799f,
+>>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
 =======
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@54a5799f,
 >>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
@@ -740,7 +764,11 @@ Binding(ALT+SHIFT+R,
 		Rename the selected item,
 		Category(org.eclipse.ui.category.file,File,null,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3a44993c,
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@162e29a1,
+>>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
 =======
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@162e29a1,
 >>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
@@ -748,6 +776,7 @@ Binding(ALT+SHIFT+R,
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 17:19:28.561
 !MESSAGE Entering DelegatingStreamConnectionProvider()
@@ -769,10 +798,16 @@ user global configuration and to define the default location to store repositori
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\mmelgars'. If this is
 >>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
+=======
+!ENTRY org.eclipse.egit.ui 2 0 2022-07-24 18:02:55.327
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\mmelgars'. If this is
+>>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 17:19:32.135
 !MESSAGE Boot LS startup time from start to initialized: 3560ms
@@ -842,6 +877,8 @@ java.lang.IllegalStateException: must specify at least one linked position
 	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl$4.widgetSelected(AbstractAnnotationHover.java:532)
 	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
 =======
+=======
+>>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
 !ENTRY org.eclipse.core.resources 4 1 2022-07-24 18:02:55.415
 !MESSAGE Problems occurred while refreshing local changes
 !SUBENTRY 1 org.eclipse.core.resources 4 1 2022-07-24 18:02:55.415
@@ -924,11 +961,15 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at org.eclipse.swt.widgets.Control.setFocus(Control.java:3439)
 	at org.springframework.ide.eclipse.boot.wizard.SearchBoxSection.focusControl(SearchBoxSection.java:111)
 	at org.springframework.ide.eclipse.boot.wizard.MultipleViewsDependencyPage.lambda$4(MultipleViewsDependencyPage.java:122)
+<<<<<<< HEAD
+>>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
+=======
 >>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+<<<<<<< HEAD
 <<<<<<< HEAD
 	at org.eclipse.swt.widgets.Widget.sendSelectionEvent(Widget.java:1107)
 	at org.eclipse.swt.widgets.Link.wmNotifyChild(Link.java:713)
@@ -946,6 +987,8 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3643)
 =======
+=======
+>>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1071)
 	at org.eclipse.swt.widgets.Control.setVisible(Control.java:3925)
 	at org.eclipse.jface.dialogs.DialogPage.setVisible(DialogPage.java:464)
@@ -974,6 +1017,9 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
 	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+<<<<<<< HEAD
+>>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
+=======
 >>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
@@ -997,6 +1043,7 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 !ENTRY org.eclipse.ui 4 0 2022-07-24 17:24:24.360
 !MESSAGE Unhandled event loop exception
@@ -2735,6 +2782,8 @@ org.eclipse.core.runtime.CoreException: Launch configuration PersonaApplication 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 20:54:57.976
 !MESSAGE executing callback sts4.classpath.ZmZmtJvC SUCCESS [done]
 =======
+=======
+>>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
 !ENTRY org.eclipse.ui 2 2 2022-07-24 18:07:47.039
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
 
@@ -2800,6 +2849,7 @@ org.eclipse.core.runtime.CoreException: Launch configuration PersonaApplication 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 18:08:44.633
 !MESSAGE executing callback sts4.classpath.ddrNSQtQ SUCCESS [done]
+<<<<<<< HEAD
 >>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
 !SESSION 2022-07-24 21:01:54.500 -----------------------------------------------
 eclipse.buildId=4.15.1.202206171354
@@ -3627,3 +3677,5 @@ Binding(CTRL+SHIFT+C,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-25 10:53:13.196
 !MESSAGE executing callback sts4.classpath.ENwQDugp SUCCESS [done]
+=======
+>>>>>>> 85913a5927df2ac9aa600047813a516ff0cdff49
