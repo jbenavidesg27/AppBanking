@@ -2305,3 +2305,51 @@ org.eclipse.core.runtime.CoreException: Launch configuration PersonaApplication 
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
 !SUBENTRY 1 org.eclipse.jdt.launching 4 107 2022-07-24 18:06:39.345
 !MESSAGE Launch configuration PersonaApplication references non-existing project persona.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 20:53:50.807
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 20:53:50.815
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 20:53:50.821
+!MESSAGE buffering callback sts4.classpath.ZmZmtJvC person false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 20:53:50.841
+!MESSAGE executing callback sts4.classpath.ZmZmtJvC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 20:53:50.882
+!MESSAGE executing callback sts4.classpath.ZmZmtJvC SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 20:54:02.181
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 20:54:02.207
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 20:54:02.212
+!MESSAGE buffering callback sts4.classpath.ZmZmtJvC passive false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 20:54:02.214
+!MESSAGE executing callback sts4.classpath.ZmZmtJvC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 20:54:02.245
+!MESSAGE executing callback sts4.classpath.ZmZmtJvC SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 20:54:57.958
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 20:54:57.960
+!MESSAGE buffering callback sts4.classpath.ZmZmtJvC passive true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 20:54:57.961
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 20:54:57.962
+!MESSAGE buffering callback sts4.classpath.ZmZmtJvC person true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 20:54:57.963
+!MESSAGE executing callback sts4.classpath.ZmZmtJvC 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-24 20:54:57.976
+!MESSAGE executing callback sts4.classpath.ZmZmtJvC SUCCESS [done]
